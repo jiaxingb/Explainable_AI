@@ -3,7 +3,7 @@
 ## Overview
 Project for course Explainable AI (SOW-BKI266).
 
-In this project we will explore the research question : How can SHAP and Counterfactual Explanationsbe used to distinguish between actual fraud andfalse positive anomalies in credit card transaction systems.
+In this project we will explore the research question : How can SHAP and Counterfactual Explanations be used to distinguish between actual fraud and false positive anomalies in credit card transaction systems.
 
 We will be applying two explanation methods:
 
@@ -29,6 +29,7 @@ Counterfactual (DiCE)
 ```
 git clone https://github.com/jiaxingb/Explainable_AI.git
 cd Explainable_AI
+<<<<<<< HEAD
 ```
 
 ### 2. Create and activate a virtual environment
@@ -88,3 +89,5 @@ https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
 ## Author
 Jia Xing Yang s1152568 
 2nd year Bsc AI student at the Radboud University
+=======
+>>>>>>> f0b4f0adf9757223e357f2c67b0c8b1095b7c9e7
