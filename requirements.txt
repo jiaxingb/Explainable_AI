@@ -1,4 +1,4 @@
-scikit-lean
+scikit-learn
 pandas
 numpy
 matplotlib
