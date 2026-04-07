@@ -89,5 +89,3 @@ https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
 ## Author
 Jia Xing Yang s1152568 
 2nd year Bsc AI student at the Radboud University
-=======
->>>>>>> f0b4f0adf9757223e357f2c67b0c8b1095b7c9e7
