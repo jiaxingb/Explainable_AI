@@ -3,7 +3,7 @@
 ## Overview
 Project for course Explainable AI (SOW-BKI266).
 
-In this project we will explore the research question : How can SHAP and Counterfactual Explanationsbe used to distinguish between actual fraud andfalse positive anomalies in credit card transaction systems.
+In this project we will explore the research question : How can SHAP and Counterfactual Explanations be used to distinguish between actual fraud and false positive anomalies in credit card transaction systems.
 
 We will be applying two explanation methods:
 
